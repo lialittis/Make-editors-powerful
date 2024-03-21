@@ -4,23 +4,30 @@ If you are using multiple editors at the same time(even though it is not recomme
 
 ## Standard Shortcuts
 
-1. Comments:
+| Command                  | Keybinding |
+| ----------------------- | ------------------------ |
+| Toggle Line Comment                            | [Ctrl + /]                                       |
+| Navigate Next in Quick Open                    | [Ctrl + B]                                       |
+| Add Cursor Above / Down                        | [Ctrl + Shift + Arrow] or [Ctrl + Alt + i/j](custom) |
+| Delete Current Line                            | [Shift + Ctrl + k]                                                 |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
 
-a) Single line comment: [ctrl+k,ctrl+c] or ctrl+/
 
-b) Cancel single line comment: [ctrl+k,ctrl+u] (press and hold ctrl, then press k + u)
-
-c) Multi-line comments: [alt+shift+A]
-
-d) Multi-line comments: /**
-
-2. Move row: alt+up/down
-
-3. Show/hide the left directory bar ctrl + b
-
-4. Copy the current line: shift + alt +up/down
-
-5. Delete the current line: shift + ctrl + k
 
 6. Display and hide the console terminal: ctrl + ~
 
@@ -85,4 +92,25 @@ d) Multi-line comments: /**
 36. Open a new command window: ctrl + shift + c
 
 ## My Custom Shortcuts
+
+| Command                  | Keybinding |
+| ----------------------- | ------------------------ |
+| Move Cursor                                    | [Ctrl + i/k/j/l]                                 |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+
 
