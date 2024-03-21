@@ -8,7 +8,7 @@ If you are using multiple editors at the same time(even though it is not recomme
 | ----------------------- | ------------------------ |
 | Toggle Line Comment                            | [Ctrl + /]                                       |
 | Navigate Next in Quick Open                    | [Ctrl + B]                                       |
-| Add Cursor Above / Down                        | [Ctrl + Shift + Arrow] or [Ctrl + Alt + i/j](custom) |
+| Add Cursor Above / Down                        | [Ctrl + Shift + Arrow] or [Ctrl + Alt + i/j] (custom) |
 | Delete Current Line                            | [Shift + Ctrl + k]                                                 |
 |                                                |                                                  |
 |                                                |                                                  |
