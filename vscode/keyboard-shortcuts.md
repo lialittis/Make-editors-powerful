@@ -4,13 +4,14 @@ If you are using multiple editors at the same time(even though it is not recomme
 
 ## Standard Shortcuts
 
+### View
 | Command                  | Keybinding |
 | ----------------------- | ------------------------ |
 | Toggle Line Comment                            | [Ctrl + /]                                       |
 | Navigate Next in Quick Open                    | [Ctrl + B]                                       |
 | Add Cursor Above / Down                        | [Ctrl + Shift + Arrow] or [Ctrl + Alt + i/j] (custom) |
-| Delete Current Line                            | [Shift + Ctrl + k]                                                 |
-|                                                |                                                  |
+| Delete Current Line                            | [Shift + Ctrl + k]                               |
+| Toggle Terminal                                | [Ctrl + `]                                       |
 |                                                |                                                  |
 |                                                |                                                  |
 |                                                |                                                  |
@@ -27,7 +28,29 @@ If you are using multiple editors at the same time(even though it is not recomme
 |                                                |                                                  |
 |                                                |                                                  |
 
-
+### Editor
+| Command                  | Keybinding |
+| ----------------------- | ------------------------ |
+| Toggle Line Comment                            | [Ctrl + /]                                       |
+| Navigate Next in Quick Open                    | [Ctrl + B]                                       |
+| Add Cursor Above / Down                        | [Ctrl + Shift + Arrow] or [Ctrl + Alt + i/j] (custom) |
+| Delete Current Line                            | [Shift + Ctrl + k]                               |
+| Toggle Terminal                                | [Ctrl + `]                                       |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
+|                                                |                                                  |
 
 6. Display and hide the console terminal: ctrl + ~
 
@@ -96,7 +119,7 @@ If you are using multiple editors at the same time(even though it is not recomme
 | Command                  | Keybinding |
 | ----------------------- | ------------------------ |
 | Move Cursor                                    | [Ctrl + i/k/j/l]                                 |
-|                                                |                                                  |
+| Close Current Editor                           | [Ctrl + x 0]                                     |
 |                                                |                                                  |
 |                                                |                                                  |
 |                                                |                                                  |
